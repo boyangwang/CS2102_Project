@@ -1,0 +1,10 @@
+{
+  "name": "cs2102",
+  "description": "cs2102 project",
+  "private": false,
+  "dependencies": {
+    "express": "*",
+    "mysql": "*",
+    "connect": "*"
+  }
+}
