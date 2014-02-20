@@ -4,4 +4,4 @@ var config = {
 	env: 'development',
 };
 
-exports = config;
+module.exports = config;
