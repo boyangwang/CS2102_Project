@@ -6,10 +6,7 @@ Schema: https://docs.google.com/document/d/1oXDtTqT4zFw57YW70_vUgGJiaMZrtnDEm7rr
 
 ------------
 
-You can access the server using the following credentials:
 
-IP Address: 128.199.233.139
+IP Address: 162.243.193.173
 
-To login to the droplet, you will need to open a terminal window and copy and paste the following string:
-
-ssh root@128.199.233.139
+Drupal Commons distro: https://drupal.org/project/commons
